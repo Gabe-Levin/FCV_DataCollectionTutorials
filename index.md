@@ -1,9 +1,3 @@
-<style>
-  .button{
-    color:red;
-}
-</style>
-
 ## Welcome to the World Bank's FCV Data Collection Tutorials
 
 You can use the [editor on GitHub](https://github.com/Gabe-Levin/FCV_DataCollectionTutorials/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
@@ -12,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mobile
 
-<div class="button" onclick="http://www.google.com">Click me</button>
+<button name="button" onclick="http://www.google.com" style="width:50%;padding:16px 32px;font-size: 16px;" >Click me</button>
+
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
