@@ -20,7 +20,7 @@ In this module, we will learn about the basics of satellite imagery and remote s
 
 ### Drone Imagery
 
-![alt text](FCV_DataCollectionTutorials/imgs/drone.jpg)
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfo.aldensys.com%2Fjoint-use%2Fhow-are-drones-used-in-lidar-data-collection&psig=AOvVaw0yQMp9SeK_cUaEoOVDzso1&ust=1630504832079000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCKiu6_y12_ICFQAAAAAdAAAAABAE)
 
 In this module, you will learn some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you will examine the risks associated with using drones in a projectfor image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
