@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Mobile
 
-<button name="button" onclick="http://www.google.com" style="width:75%;padding:16px 32px;font-size: 16px;align-items: center;" >Click me</button>
+<button name="button" onclick="http://www.google.com" style="width:75%;padding:16px 32px;font-size: 16px;display: flex;justify-content: center;align-items: center;">Click me</button>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
