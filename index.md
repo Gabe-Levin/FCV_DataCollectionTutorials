@@ -6,7 +6,7 @@ These training materials were developed by the World Bank in partnership with XX
 
 ### Mobile Phone Data
 
-<img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:100px; object-fit:cover;">
+<img src="imgs/mobilephones.png" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
 In this module, you will learn how mobile phone technologies are creating new opportunities to generate, collect, and use data for development insights in fragile settings. You will learn how big mobile data that is passively generated from the use of basic mobile phones and location enabled smartphone applications can be repurposed for development insights. You will also learn how mobile technologies are being used to improve active data collection in the field and remotely. For example, how enumerators use tablets and smartphones to enhance household surveys conducted in the field, or how the rise in global cell phone usage is making it easier to collect survey data remotely. You will explore case studies to understand how develpment data products based on mobile location data can deliver higher resolution insights in areas like human desplacement, poverty measurements and service delivery. Finally, you will learn principles and practices for responsibly using modile data in development work.
 
@@ -15,7 +15,7 @@ In this module, you will learn how mobile phone technologies are creating new op
 
 ### Remote Sensing Imagery
 
-<img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:100px; object-fit:cover;">
+<img src="imgs/satellite.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
 In this module, we will learn about the basics of satellite imagery and remote sensing, and how such data can be applied to development projects. We will learn about the key terms related to remote sensing, and examine how to acquire the right images by learning how to properly define key objectives. We will also explore when remote sensing may not be the right data for your project needs. And finally, we will explore various case studies to observe how projects have utilized this data in different ways.
  
@@ -24,7 +24,7 @@ In this module, we will learn about the basics of satellite imagery and remote s
 
 ### Drone Imagery
 
-<img src="imgs/drone.jpg" alt="Drone" style= "width:100%; height:100px; object-fit:cover;">
+<img src="imgs/drone.jpg" alt="Drone" style= "width:100%; height:150px; object-fit:cover;">
 
 In this module, you will learn some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you will examine the risks associated with using drones in a projectfor image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
