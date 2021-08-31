@@ -20,7 +20,7 @@ In this module, we will learn about the basics of satellite imagery and remote s
 
 ### Drone Imagery
 
-![test3](https://github.com/Gabe-Levin/FCV_DataCollectionTutorials/blob/172082329bf46a346ec41239431ee44ff83fa396/imgs/drone.jpg)
+![test4](https://github.com/Gabe-Levin/FCV_DataCollectionTutorials/blob/172082329bf46a346ec41239431ee44ff83fa396/imgs/drone.jpg){:class="img-responsive"}
 
 In this module, you will learn some basic information related to drones, as well as how to decide if drone imagery is the appropriate solution for your project, and if so, how to acquire the necessary images. Finally, you will examine the risks associated with using drones in a projectfor image collection and the safety measures that should be taken to ensure drones are used responsibly.  
 
